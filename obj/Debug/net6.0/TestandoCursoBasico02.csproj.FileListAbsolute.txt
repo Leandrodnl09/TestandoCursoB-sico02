@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\bin\Debug\net6.0\TestandoCursoBasico02.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\bin\Debug\net6.0\TestandoCursoBasico02.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\bin\Debug\net6.0\TestandoCursoBasico02.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\bin\Debug\net6.0\TestandoCursoBasico02.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\bin\Debug\net6.0\TestandoCursoBasico02.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\TestandoCursoBasico02.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\TestandoCursoBasico02.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\TestandoCursoBasico02.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\TestandoCursoBasico02.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\TestandoCursoBasico02.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\TestandoCursoBasico02.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\refint\TestandoCursoBasico02.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\TestandoCursoBasico02.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\TestandoCursoBasico02.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TestandoCursoBasico02\obj\Debug\net6.0\ref\TestandoCursoBasico02.dll
